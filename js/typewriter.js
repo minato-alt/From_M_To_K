@@ -23,37 +23,51 @@
     ================================================== */
 
     const letter =
-`Hey,
+    `Hey again, my cupcake 🧁,
 
-I don't really know where to start.
+    I guess third time's the charm.
 
-I know things got messy, and I know words were said from both sides that hurt.
+    I don't really know where to start.
 
-But there are things I want you to know.
+    I know things got messy, and I know words were said from both sides that hurt.
 
-I don't want this to be just another apology message that disappears after a few days.
+    But there are some things I want you to know.
 
-I wanted to create something that shows that I remember.
+    I don't want this to be just another apology message that disappears after a few days.
 
-The small things.
-The random things.
-The things you probably don't even realize I noticed.
+    I wanted to make something that reminds you of how much you matter to me.
 
-Your favourite foods.
-Your weird little habits.
-Your dreams.
-Your opinions about movies.
-The tiny stories you told me.
+    Not because of one big reason,
+    but because of a thousand little ones.
 
-All of those things became memories for me.
+    The small things.
+    The random things.
+    The things you probably don't even realize I noticed.
 
-I know healing takes time, and I don't expect everything to suddenly become normal.
+    Your favourite foods.
+    Your little habits.
+    Your dreams.
+    Your opinions about movies.
+    The stories you told me.
 
-I just wanted to remind you that you matter.
+    Somehow, all of those little things became memories for me.
 
-And that I am genuinely sorry for the things I said.
+    I really, really miss you.
+    I miss being with you.
+    These past few days have been harder than I'd like to admit.
 
-Thank you for being someone whose little details became important enough for me to remember.`;
+    Your goals are adorable, just like you are, and I'd be grateful if you let me be a small part of your journey.
+
+    I know healing takes time, and I don't expect everything to suddenly become normal.
+
+    I just want you to know that I am genuinely sorry for the things I said.
+
+    Thank you for being someone whose little details became important enough for me to remember.
+
+    I hope that, one day, we can look back at this as just another difficult chapter that we made it through together.
+
+    P.S. I know an apology can't fix everything, and neither can this.
+    But I hope, little by little, things find their way back to us, and maybe one day we're even closer than we used to be.`;
 
     /* ==================================================
        TYPEWRITER SETTINGS
