@@ -3134,7 +3134,7 @@ const memories = [
 
     title:"First Video Call",
 
-    subtitle:"You, me and a screen",
+    subtitle:"You, me and a screen (May, 4)",
 
     category:"Stories",
 
@@ -3156,11 +3156,292 @@ const memories = [
     
     timeline:true,
 
+    date:"You, me and a screen (May, 4)",
+
+    text:
+    "Our first video call, it was spontaneous yet again still it was beautiful. "
+    
+},
+
+
+{
+    id:104,
+
+    title:"Broken Specs 2",
+
+    category:"Stories",
+
+    type:"story",
+
+    icon:"👓",
+
+    importance:2,
+
+    tags:[
+        "specs",
+        "memory"
+    ],
+
+
+    scrapbook:false,
+
+    archive:true,
+
     date:"You, me and a screen",
 
     text:
-    "Our first video call, it was spontaneous yet again still it was beautiful. (May, 4)"
-}
+    "You again broke your specs by accidentally leaving them on bed."},
+
+
+
+/* ======================================================
+   SECRET SEARCHES
+====================================================== */
+
+
+{
+
+    id:1001,
+
+    title:"Access Granted",
+
+    subtitle:"Hello, Cupcake.",
+
+    category:"Hidden",
+
+    type:"secret",
+
+    icon:"🧁",
+
+    importance:10,
+
+    tags:[
+        "cupcake"
+    ],
+
+    scrapbook:false,
+
+    archive:false,
+
+    secret:true,
+
+    animation:"cupcake",
+
+    text:
+    "I was wondering when you'd search that."
+
+},
+
+
+
+{
+
+    id:1002,
+
+    title:"Nickname Unlocked",
+
+    subtitle:"🍓 Strawberry Ice Cream",
+
+    category:"Hidden",
+
+    type:"secret",
+
+    icon:"🍓",
+
+    importance:10,
+
+    tags:[
+        "icecream",
+        "strawberry",
+        "strawberry icecream",
+        "strawberry ice cream"
+    ],
+
+    scrapbook:false,
+
+    archive:false,
+
+    secret:true,
+
+    animation:"hearts",
+
+    text:
+    "One of my favourite little nicknames, and one of my favourite memories."
+
+},
+
+
+
+{
+
+    id:1003,
+
+    title:"Baby Found",
+
+    subtitle:"🧸",
+
+    category:"Hidden",
+
+    type:"secret",
+
+    icon:"🧸",
+
+    importance:10,
+
+    tags:[
+        "cutu"
+    ],
+
+    scrapbook:false,
+
+    archive:false,
+
+    secret:true,
+
+    animation:"plush",
+
+    text:
+    "Cute cute Cutu baby🥰"
+
+},
+
+
+
+{
+
+    id:1004,
+
+    title:"Paragraphs",
+
+    subtitle:"📜",
+
+    category:"Hidden",
+
+    type:"secret",
+
+    icon:"❤️",
+
+    importance:10,
+
+    tags:[
+        "paras"
+    ],
+
+    scrapbook:false,
+
+    archive:false,
+
+    secret:true,
+
+    animation:"type",
+
+    text:
+    "I'll happily keep writing them for you."
+
+},
+
+
+
+{
+
+    id:1005,
+
+    title:"...",
+
+    subtitle:"",
+
+    category:"Hidden",
+
+    type:"secret",
+
+    icon:"🤍",
+
+    importance:10,
+
+    tags:[
+        "sorry"
+    ],
+
+    scrapbook:false,
+
+    archive:false,
+
+    secret:true,
+
+    animation:"fade",
+
+    text:
+    "I know one search won't fix everything, but I hope this little thing shows how much remembering you meant to me."
+
+},
+
+
+{
+
+    id:1006,
+
+    title:"You",
+
+    subtitle:"",
+
+    category:"Hidden",
+
+    type:"secret",
+
+    icon:"🤗",
+
+    importance:10,
+
+    tags:[
+        "komal"
+    ],
+
+    scrapbook:false,
+
+    archive:false,
+
+    secret:true,
+
+    animation:"fade",
+
+    text:
+    "A line cannot describe you and what you mean to me."
+
+},
+
+{
+
+    id:1007,
+
+    title:"Me",
+
+    subtitle:"",
+
+    category:"Hidden",
+
+    type:"secret",
+
+    icon:"🫂",
+
+    importance:10,
+
+    tags:[
+        "manan"
+    ],
+
+    scrapbook:false,
+
+    archive:false,
+
+    secret:true,
+
+    animation:"fade",
+
+    text:
+    "Dumb, bad, very bad icecream. But also very sorry icecream. Let him stay near her freezer"
+
+},
+
 
 
 ];
